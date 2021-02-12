@@ -1,0 +1,11 @@
+INFO:root:0:00:00.004481
+INFO:root:0:00:00.019819
+INFO:root:0:00:00.020552
+INFO:root:0:00:00.012870
+INFO:root:2021-02-12 11:15:11.268650-06:00
+INFO:root:(datetime.datetime(2021, 2, 12, 11, 15, 27, 870861, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=-360, name=None)), datetime.timedelta(microseconds=7247))
+INFO:root:(datetime.datetime(2021, 2, 12, 11, 16, 23, 461353, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=-360, name=None)), datetime.timedelta(microseconds=17356))
+INFO:root:(datetime.datetime(2021, 2, 12, 11, 16, 29, 912674, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=-360, name=None)), datetime.timedelta(microseconds=8718))
+INFO:root:t: 2021-02-12 11:17:19.907384-06:00 lag: 0:00:00.003226
+INFO:root:t: 2021-02-12 11:27:11.666341-06:00 lag: 0:00:00.006814
+INFO:root:t: 2021-02-12 11:33:13.434342-06:00 lag: 0:00:00.018463
